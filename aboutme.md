@@ -1,25 +1,22 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: à propose de moi
+subtitle: toujours partant pour parler decroissance, photo, guitare ou Agilité
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+Sébastien, Coach Agile, Guitariste des **Train Station**, Photographe amateur
+mon profil LinkedIn : https://www.linkedin.com/in/sebtissot-agile/
+https://twitter.com/SebTisPhoto
 
 ### my history
 
 # SEBASTIEN TISSOT
 ## Agent d'amelioration continue - Coach Agile
 ### Spécialisé en gestion de projet et de produit Agile.
->Avec plus de 15 années d’expérience dans le domaine IT au sein d’une banque de financement et d’investissement, et plus récement dans le secteur de la moilité, je m'epanouis dans un contexte collectif.
->Focalisé sur la réussite et le bonne humeur, je souhaite mettre ma double compétence en pilotage de projets informatiques et en coaching, dans des roles de Scrum Master, Product Owner.
+>Avec plus de 17 années d’expérience dans le domaine IT au sein d’une banque de financement et d’investissement, dans le secteur de la moilité, de l'assurance et plus récement dans l'industrie. Je m'épanouis dans un contexte collectif.
+>Focalisé sur la réussite et le bonne humeur, je souhaite mettre à profit ma double compétence en pilotage de projets informatiques et en coaching, dans des roles de Scrum Master, Product Owner.
 
-## Mes valeurs
+## Mes valeurs / Mes croyances
 * __La bienveillance__ ameliore la performance collective
 * __L'intelligence collective__ surpasse l'intelligence individuele
 * __Je pourrais recopier les valeurs du [Manifeste Agile](http://www.agilemanifesto.org)__ 
@@ -29,14 +26,23 @@ What else do you need?
 	* la réduction des écarts de richesse (en premier lieu éradiquer la pauvreté)
 	* Amélioration des conditions de vie et mesurer de nouveaux indices (voir Bonheur Interieur Brut)
 
-mon profil LinkedIn : https://www.linkedin.com/in/sebtissot-agile/
+
 Sur twitter (@sebtisphoto), quelques comptes inspirants à mon point de vue @edgarmorinparis  @JMJancovici
 
 
 # _Curiculum Vitae_
 
 ## EXPERIENCES PROFESSIONNELLES
-### 12/2017 à aujourd'hui - Scrum Master SG - RESG/BSC Big Data
+### Depuis 11/2019 - Scrum Master chez thalesdigital.io
+* Scrum Mastering de deux equipes 
+* Animation de la communauté de Scrum Master
+
+### 09/2018 à 11/2019 - Coach Agile Mykelson-consulting - Mission chez Allianz France
+* accompagnement des equipes de l'ecosystème Mon Avenir et Ma Santé 
+* Animation de la communauté de Coach Agile
+* Aide à la mise en place de PI Planning et ART Synch
+
+### 12/2017 à 09/2018 - Scrum Master SG - RESG/BSC Big Data
 * Adoption des principes agiles et craftsmanship par l'equipe
 * Animation de la communauté de Scrum Master
 

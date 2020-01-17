@@ -5,8 +5,8 @@ subtitle: toujours partant pour parler decroissance, photo, guitare ou Agilité
 ---
 
 Sébastien, Coach Agile, Guitariste des **Train Station**, Photographe amateur
-mon profil LinkedIn : https://www.linkedin.com/in/sebtissot-agile/
-https://twitter.com/SebTisPhoto
+[mon profil LinkedIn](https://www.linkedin.com/in/sebtissot-agile/)
+[Twitter](https://twitter.com/SebTisPhoto)
 
 ### my history
 

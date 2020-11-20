@@ -115,5 +115,7 @@ Sur twitter (@sebtisphoto), quelques comptes inspirants à mon point de vue @edg
 * :camera: Photographie (Paysage, macrophotographie, portrait, nu, sport et événementiel)
 ### vous trouverez ici [ma galerie flickr](http://www.fluidr.com/photos/sebtis)
 * Sports que j'ai plus ou moins pratiqués: Golf, Vélo de route, Course à pied mais surtout Escalade en salle et falaises, Kayak en eaux vives 
-### vous trouverez ici [le site du Club de Gisors](http://www.varapeure.fr)
-* Musique :guitare (Blues/Rock/Pop)
+### Musique
+#### guitare :
+* :guitar: Guitariste (Blues/Rock) dans le groupe Train Station
+* :drums: Batteur débutant

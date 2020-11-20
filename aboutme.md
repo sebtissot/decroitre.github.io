@@ -1,7 +1,7 @@
 ---
 layout: page
 title: à propose de moi
-subtitle: toujours partant pour parler decroissance, photo, guitare ou Agilité
+subtitle: Parler et Agir sur la decroissance, photo, guitare ou Agilité
 ---
 
 Sébastien, Coach Agile, Guitariste des **Train Station**, Photographe amateur
@@ -11,7 +11,7 @@ Sébastien, Coach Agile, Guitariste des **Train Station**, Photographe amateur
 ### my history
 
 # SEBASTIEN TISSOT
-## Agent d'amelioration continue - Coach Agile
+## Agent d'amélioration continue - Coach Agile
 ### Spécialisé en gestion de projet et de produit Agile.
 >Avec plus de 17 années d’expérience dans le domaine IT au sein d’une banque de financement et d’investissement, dans le secteur de la moilité, de l'assurance et plus récement dans l'industrie. Je m'épanouis dans un contexte collectif.
 >Focalisé sur la réussite et le bonne humeur, je souhaite mettre à profit ma double compétence en pilotage de projets informatiques et en coaching, dans des roles de Scrum Master, Product Owner.
@@ -34,7 +34,7 @@ Sur twitter (@sebtisphoto), quelques comptes inspirants à mon point de vue @edg
 
 ## EXPERIENCES PROFESSIONNELLES
 ### Depuis 11/2019 - Scrum Master chez thalesdigital.io
-* Scrum Mastering de deux equipes 
+* Scrum Mastering d'equipe de Thales Digital Platforme
 * Animation de la communauté de Scrum Master
 
 ### 09/2018 à 11/2019 - Coach Agile Mykelson-consulting - Mission chez Allianz France
@@ -83,11 +83,12 @@ Sur twitter (@sebtisphoto), quelques comptes inspirants à mon point de vue @edg
 * Coaching 
 * Gestion de projet et encadrement d’équipes IT
 * Animation / Facilitation
-* Product ownership et Maitrise d’ouvrage
+* Product ownership
 * Assurance Qualité et gestion de risque
 * Conduite du changement
 
 ## CONNAISSANCES METHODOLOGIQUES
+* Design Thinking et Design Sprint
 * Scrum
 * Kanban
 * Lean Start Up et Product Discovery
@@ -95,12 +96,13 @@ Sur twitter (@sebtisphoto), quelques comptes inspirants à mon point de vue @edg
 * PMP (Travail personnel mais non cerfifié)
 
 ## OUTILS, LANGAGES et LANGUES VIVANTES
-* Bureautique						Word, Excel, PowerPoint, MsProject, Visio, Business Object
+* Bureautique				Word, Excel, PowerPoint, MsProject, Visio, Business Object
 * Gestion du backlog produit		Jira/GreenHopper, Visual Studio Team Fondation, Trello
 * Gestion de portefeuille projet	HP-PPM
-* Langue:							Français, Anglais opérationnel
+* Langue:				Français, Anglais opérationnel
 
 ## FORMATIONS et CURSUS
+* 2018		Certified Scrum Product Owner (scrumalliance.org)
 * 2016		SAFe Product Owner/Product Manager
 * 2014-2015	Process Communication (Kailher France)
 * 2013		Exploiter son potentiel (analyse du Type Psychologique NBTI)
@@ -109,13 +111,14 @@ Sur twitter (@sebtisphoto), quelques comptes inspirants à mon point de vue @edg
 * 2007		Formation SCRUM (Méthode agile)
 * 2000		DESS Biotechnologie des champignons - Université Victor Segalen Bordeaux 2
 * 1999		Service Militaire (Aspirant Officier de réserve de l’Armée de l’air BA105 - Evreux)
-* 1998		Maîtrise de Biologie Cellulaire (dominante : Génétique) – Université Henri Poincaré Nancy1
+* 1998		Maîtrise de Biologie Cellulaire (Génétique) – Université Henri Poincaré Nancy1
 
 ## CENTRES D’INTERETS
 * :camera: Photographie (Paysage, macrophotographie, portrait, nu, sport et événementiel)
 ### vous trouverez ici [ma galerie flickr](http://www.fluidr.com/photos/sebtis)
 * Sports que j'ai plus ou moins pratiqués: Golf, Vélo de route, Course à pied mais surtout Escalade en salle et falaises, Kayak en eaux vives 
 ### Musique
-#### guitare :
-* :guitar: Guitariste (Blues/Rock) dans le groupe Train Station
-* :drums: Batteur débutant
+#### :musical_score: guitare :
+* Guitariste (Blues/Rock) dans le groupe Train Station
+* Batteur débutant
+* Membre de l'atelier Pop de [FrasaMusicLive](https://frasamusiclive.com/)

@@ -21,11 +21,11 @@ description: un blog sur la decroissance mais pas que
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Site design: "http://deanattali.com"
+  Site design: "http://comprendre-reduire.fr"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/IMG_6747.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -35,7 +35,7 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#F5F6C5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
@@ -57,7 +57,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Seb Tissot
+  name: Sebastien Tissot
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.

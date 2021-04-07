@@ -4,16 +4,27 @@ title: à propose de moi
 subtitle: Parler et Agir sur la decroissance, photo, guitare ou Agilité
 ---
 
-Sébastien, Coach Agile, Guitariste des **Train Station**, Photographe amateur
+## Sébastien Tissot
+__Animateur Fresque du Climat et Ambassadeur Citoyen MyCO__
+Coach Agile, Guitariste des **Train Station**, Photographe amateur
 [mon profil LinkedIn](https://www.linkedin.com/in/sebtissot-agile/)
 [Twitter](https://twitter.com/SebTisPhoto)
 
-### my history
+# Mes domaines d'interventions
+## Consultant en transition ecologique
+Aider les organisations dans leur chemin vers un mode de fonctionnement durable
 
-# SEBASTIEN TISSOT
+### Comprendre et reduire votre empreinte carbone
+* Animateur de la fresque du climat
+[Site de la Fresque](https://fresqueduclimat.org/)
+
+* Ambassadeur Citoyen MyCO2
+[Site officiel de MyCO2](https://www.myco2.fr/)
+
+
 ## Agent d'amélioration continue - Coach Agile
 ### Spécialisé en gestion de projet et de produit Agile.
->Avec plus de 17 années d’expérience dans le domaine IT au sein d’une banque de financement et d’investissement, dans le secteur de la moilité, de l'assurance et plus récement dans l'industrie. Je m'épanouis dans un contexte collectif.
+>Avec mes 20 années d’expérience dans le domaine IT au sein d’une banque de financement et d’investissement, dans le secteur de la moilité, de l'assurance et plus récement dans l'industrie. Je m'épanouis dans un contexte collectif.
 >Focalisé sur la réussite et le bonne humeur, je souhaite mettre à profit ma double compétence en pilotage de projets informatiques et en coaching, dans des roles de Scrum Master, Product Owner.
 
 ## Mes valeurs / Mes croyances
@@ -34,11 +45,12 @@ Sur twitter (@sebtisphoto), quelques comptes inspirants à mon point de vue @edg
 
 ## EXPERIENCES PROFESSIONNELLES
 ### Depuis 11/2019 - Scrum Master chez thalesdigital.io
-* Scrum Mastering d'equipe de Thales Digital Platforme
+* Scrum Mastering d'equipes de la __Thales Digital Platforme__ puis des equipes en charge de l'administration de la software factory (Gitlab, jFrog, SonarQube...) 
 * Animation de la communauté de Scrum Master
+* Animation d'une communauté autour de la sobriété numérique
 
 ### 09/2018 à 11/2019 - Coach Agile Mykelson-consulting - Mission chez Allianz France
-* accompagnement des equipes de l'ecosystème Mon Avenir et Ma Santé 
+* Accompagnement des equipes de l'ecosystème Mon Avenir et Ma Santé 
 * Animation de la communauté de Coach Agile
 * Aide à la mise en place de PI Planning et ART Synch
 
@@ -52,7 +64,7 @@ Sur twitter (@sebtisphoto), quelques comptes inspirants à mon point de vue @edg
 * Mise en place de metriques d'observation de l'amelioration (Time To Market, Usage des feature)
 * Animation d'une communauté Agile
 
-### 2012 - 12/2016 -   SOCIETE GENERALE – GBIS  ITEC (DSI) - Coach Agile dans le cadre du projet Continuous Delivery (Livraison de valeur en continu)
+### 2012 - 2016 -   SOCIETE GENERALE – GBIS  ITEC (DSI) - Coach Agile dans le cadre du projet Continuous Delivery (Livraison de valeur en continu)
 * Coaching d’équipe en cours de transformation Agile (Mise en pace framework Agile, Boucle d’apprentissage, Amélioration Continue, Découpage fonctionnel, …)
 * Co-Responsable du projet de transformation d’un groupe de 6 équipes: amélioration du Time to Market a travers l’approche Agile et les pratiques continuous delivery
 * Elaboration et dispense de formation en Gestion de projet en contexte Agile (200 formés)
